@@ -3,18 +3,17 @@ body {
   line-height: 1;
   padding-left: 10px;
   padding-right: 10px;
-  background-color: #EEE;
-  background-image: url("https://heropy.blog/css/images/pattern.png");
+  background-color: #eee;
+  background-image: url('https://heropy.blog/css/images/pattern.png');
   padding-top: 40px;
   padding-bottom: 40px;
-
 }
 
 .form {
   width: 400px;
   box-sizing: border-box;
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.07);
-  background-color: #FFF;
+  background-color: #fff;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 30px;
@@ -41,8 +40,8 @@ body {
 
 .form .btn {
   cursor: pointer;
-  background-color: #FFA32D;
-  color: #FFF;
+  background-color: #ffa32d;
+  color: #fff;
   margin-left: auto;
   margin-right: auto;
   margin-top: 14px;
@@ -55,7 +54,6 @@ body {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-
 }
 
 .card {
@@ -64,7 +62,7 @@ body {
   display: flex;
   align-items: center;
   gap: 16px;
-  background-color: #FFF;
+  background-color: #fff;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
